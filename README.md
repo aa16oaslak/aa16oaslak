@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aa16oaslak
-- 👀 I’m interested in persuing Astronomy 
-- 🌱 Python || C++ || MATLAB
+- 👋 Hola! Welcome to @aa16oaslak github profile: Here you will find all my codes that I have used in my various projects. 
+- 👀 I’m currently persuing Astrophysics @ Stockholm University as a visiting masters thesis student  
+- 🌱 Python || MATLAB || C++ 
 
 <!---
 aa16oaslak/aa16oaslak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
