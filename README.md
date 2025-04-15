@@ -1,5 +1,5 @@
 - 👋 Hola! Welcome to @aa16oaslak github profile: Here you will find all my codes that I have used in my various projects. 
-- 👀 I’m currently persuing Astrophysics @ Stockholm University as a visiting masters thesis student  
+- 👀 I’m currently a Doctoral Researcher @ University of Iceland 
 - 🌱 Python || MATLAB || C++ 
 
 <!---
